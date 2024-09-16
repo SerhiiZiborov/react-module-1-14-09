@@ -1,0 +1,22 @@
+[
+  {
+    "id": "4",
+    "cardNumber": "3210 6543 9876 5432",
+    "cardType": "Visa",
+    "cardOwner": "Bob Brown",
+    "date": "2024-04-05",
+    "amount": 300,
+    "description": "Payment for furniture",
+    "isPaid": false
+  },
+  {
+    "id": "5",
+    "cardNumber": "6543 2109 8765 4321",
+    "cardType": "MasterCard",
+    "cardOwner": "Charlie Green",
+    "date": "2024-05-20",
+    "amount": 150,
+    "description": "Payment for clothing",
+    "isPaid": true
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cardNumber": "1234 5678 9012 3456",
+    "cardType": "Visa",
+    "cardOwner": "John Doe",
+    "date": "2024-01-01",
+    "amount": 100,
+    "description": "Payment for groceries",
+    "isPaid": true
+  },
+  {
+    "id": "2",
+    "cardNumber": "9876 5432 1098 7654",
+    "cardType": "MasterCard",
+    "cardOwner": "Jane Smith",
+    "date": "2024-02-15",
+    "amount": 250,
+    "description": "Payment for electronics",
+    "isPaid": true
+  },
+  {
+    "id": "3",
+    "cardNumber": "4567 8901 2345 6789",
+    "cardType": "American Express",
+    "cardOwner": "Alice Johnson",
+    "date": "2024-03-10",
+    "amount": 75,
+    "description": "Payment for books",
+    "isPaid": true
+  },
+  {
+    "id": "4",
+    "cardNumber": "3210 6543 9876 5432",
+    "cardType": "Visa",
+    "cardOwner": "Bob Brown",
+    "date": "2024-04-05",
+    "amount": 300,
+    "description": "Payment for furniture",
+    "isPaid": true
+  },
+  {
+    "id": "5",
+    "cardNumber": "6543 2109 8765 4321",
+    "cardType": "MasterCard",
+    "cardOwner": "Charlie Green",
+    "date": "2024-05-20",
+    "amount": 150,
+    "description": "Payment for clothing",
+    "isPaid": true
+  }
+]
